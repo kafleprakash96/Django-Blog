@@ -24,13 +24,13 @@ Run the following command to install the required packages:
 
 
 Run the following command to migrate the database:
-! For Mac:
 
-<pre><code class="python hljs">python3 manage.py migrate</code></pre>
 
 <pre><code class="python hljs">python manage.py migrate</code></pre>
-
-!! mac comes with Python 2.7 So python3 is written to explicitly use Python3 version installed in your machine. 
+<h3> For mac user <h3>
+Mac comes with Python 2.7 So python3 is written to explicitly use Python3 version installed in your machine.
+  
+<pre><code class="python hljs">python3 manage.py migrate</code></pre>
 
 Usage
 
