@@ -10,3 +10,5 @@ media
 *.log
 
 posts.json
+
+.DS_Store
